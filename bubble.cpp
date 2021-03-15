@@ -11,7 +11,6 @@ int main()
 		scanf("%d",&a[i]);		//to take the elements given by the user
 	}
 	printf("the sorted elements in the array are:");
-	for(i=1;i<n-1;i++)
 	{
 		for(j=0;j<n-1;j++)
 		{
